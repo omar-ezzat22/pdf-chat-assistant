@@ -20,8 +20,7 @@ A robust Retrieval-Augmented Generation (RAG) web application built with Streaml
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-```bash
-git clone [https://github.com/YOUR_USERNAME/pdf-chat-assistant.git](https://github.com/omar-ezzat22/pdf-chat-assistant.git)
+git clone https://github.com/omar-ezzat22/pdf-chat-assistant.git
 cd pdf-chat-assistant
 
 2. Install the required dependencies:
@@ -31,9 +30,10 @@ pip install -r requirements.txt
 Create a .env file in the root directory and add your Google API key:
 GOOGLE_API_KEY="your_api_key_here"
 
-Usage:
+💻 Usage
+Run the Streamlit application:
 streamlit run main_app.py
 
-1. Upload a PDF document using the sidebar.
-2. Click the process button to build the vector database.
-3. Ask questions about the document in the main chat interface.
+1.Upload a PDF document using the sidebar.
+2.Click the process button to build the vector database.
+3.Ask questions about the document in the main chat interface.

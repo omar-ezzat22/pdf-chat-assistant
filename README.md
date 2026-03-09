@@ -36,5 +36,8 @@ Run the Streamlit application:
 streamlit run main_app.py
 
 1.Upload a PDF document using the sidebar.
+
 2.Click the process button to build the vector database.
+
 3.Ask questions about the document in the main chat interface.
+

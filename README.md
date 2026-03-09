@@ -31,6 +31,7 @@ Create a .env file in the root directory and add your Google API key:
 GOOGLE_API_KEY="your_api_key_here"
 
 💻 Usage
+
 Run the Streamlit application:
 streamlit run main_app.py
 
